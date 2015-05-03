@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/name_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/logo" />
+
+    <Button
+        android:id="@+id/createschedule_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="80dp"
+        android:background="#67c8ff"
+        android:text="CREATE SCHEDULE"
+        android:textSize="20dp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/viewschedule_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="15dp"
+        android:background="#f49926"
+        android:text="VIEW SCHEDULE"
+        android:textSize="20dp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/logout_btn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="LOGOUT"
+        android:textSize="22dp"
+        android:textStyle="bold|italic" />
+
+</LinearLayout>

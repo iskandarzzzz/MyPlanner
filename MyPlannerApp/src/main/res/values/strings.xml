@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">FaizaProject</string>
+    <string name="new_user"><u>New here?Sign up</u></string>
+    <string name="old_user"><u>Already Registered?Sign in</u></string>
+
+
+</resources>

@@ -1,0 +1,4 @@
+C:\Users\mk00333300\AndroidStudioProjects\MyPlannerApp\MyPlannerApp\build\intermediates\classes\debug
+C:\Users\mk00333300\AndroidStudioProjects\MyPlannerApp\MyPlannerApp\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-71a7e3d77a0bf33111e22cabeaea3ea663087a75.jar
+C:\Users\mk00333300\AndroidStudioProjects\MyPlannerApp\MyPlannerApp\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-95772548bd0cb263d7d9bf235dc37992e0ca4af3.jar
+C:\Users\mk00333300\AndroidStudioProjects\MyPlannerApp\MyPlannerApp\build\intermediates\pre-dexed\debug\classes-57a1452c6ad993406d0e6fdb10ef1f342a976898.jar
